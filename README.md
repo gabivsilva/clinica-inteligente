@@ -18,11 +18,11 @@ Sistema inteligente para agendamento de consultas médicas.
   
 ## 📸 Preview
 
-### Login
-![Login](./public/images/login.png)
+### 🔐 Login
+![Login](./frontend/public/images/login.png)
 
-### Dashboard
-![Dashboard](./public/images/dashboard.png)
+### 📊 Dashboard
+![Dashboard](./frontend/public/images/dashboard.png)
 
-### Agendamentos
-![Agendamento](./public/images/agendamento.png)
+### 📅 Agendamentos
+![Agendamento](./frontend/public/images/agendamento.png)
