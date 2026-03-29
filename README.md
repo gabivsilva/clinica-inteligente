@@ -19,10 +19,10 @@ Sistema inteligente para agendamento de consultas médicas.
 ## 📸 Preview
 
 ### 🔐 Login
-![Login](./frontend/public/images/login.png)
+![Login](./public/images/login.png)
 
 ### 📊 Dashboard
-![Dashboard](./frontend/public/images/dashboard.png)
+![Dashboard](./public/images/dashboard.png)
 
 ### 📅 Agendamentos
-![Agendamento](./frontend/public/images/agendamento.png)
+![Agendamento](./public/images/agendamento.png)
