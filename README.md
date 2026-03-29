@@ -15,7 +15,7 @@ Sistema inteligente para agendamento de consultas médicas.
 - Dashboard do paciente
 - Integração com CEP
 - Alerta de clima
-
+  
 ## 📸 Preview
 
 ### 🔐 Login
